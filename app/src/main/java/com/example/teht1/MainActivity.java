@@ -13,6 +13,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    //comment
     ArrayList<String> list = new ArrayList<>();
     EditText edittext = findViewById(R.id.myEditText);
     String message;
